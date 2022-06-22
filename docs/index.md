@@ -6,7 +6,7 @@ Este script de Python transforma un documento de tipo *Csv*, con los datos de un
 
 Una vez descargado el script, **fromCsvToVcf.py**, ejecutarlo con el comando:
 
-    python fromCsvToVcf.py -i *input_file* -o *output_file* - g *group1 group2 group3*
+    python fromCsvToVcf.py -i input_file -o output_file - g group1 group2 group3
   
   
 Donde:
